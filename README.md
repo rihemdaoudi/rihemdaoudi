@@ -50,6 +50,12 @@
 - **Description**: A social media-style blog platform with user interaction features.  
 - **Tech Stack**: Django.  
 
+
+
+## 📊 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemdaoudi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemdaoudi&layout=compact&theme=radical)  
+
 ---
 
 ## 📜 **Certifications**  
