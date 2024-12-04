@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm **Rihem Daoudi**
 
 🚀 **Software Engineer** | 💻 Passionate about building innovative solutions and solving challenging problems.  
-📍 Based in **Ariana, Tunisia** | 🌐 Open to global opportunities.
+📍 From **Tunisia** 🇹🇳 | 🌐 Open to global opportunities.
 
 ---
 
 ## 🌟 **About Me**  
 - 🎓 Graduated with **Highest Honour** in Software Engineering from TEK-UP Engineering School.  
 - 🌱 Currently exploring **Generative AI** and enhancing my expertise in **Cloud Technologies**.  
-- 🏆 Achieved **2nd place among TEK-UP teams** in **IEEEXTREME v18.0** (Ranked 2079 globally).  
+- 🏆 Ranked **2nd among 17 TEK-UP teams** in **IEEEXTREME v18.0** (Ranked 2079 globally).  
 - 💬 Ask me about **Full-Stack Development**, **.NET Core**, and **Cloud Solutions**.  
 
 ---
@@ -50,11 +50,21 @@
 - **Description**: A social media-style blog platform with user interaction features.  
 - **Tech Stack**: Django.  
 
-
-
 ## 📊 **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemdaoudi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemdaoudi&layout=compact&theme=radical)  
+
+### **Contributions Overview**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rihemdaoudi&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 📈 **Achievements & Volunteer Work**  
+- 🏅 Ranked **2nd among 17 TEK-UP teams** in **IEEEXTREME v18.0**.  
+- 💼 Vice President of Training and Development, **JCI EL Médina (2024)**.  
+- 🎤 **Ambassador at TSYP11 (2023)**.  
+- 🙋‍♂️ **Volunteer at TEDx Street Pasha (2023)**.  
+- 💰 **Treasurer at IEEE TEK-UP (2024)**.  
 
 ---
 
@@ -73,13 +83,6 @@
 
 ---
 
-## 📈 **Achievements & Volunteer Work**  
-- 🏅 Ranked **2nd among TEK-UP teams** in IEEEXTREME v18.0.  
-- 💼 Vice President of Training and Development, JCI EL Médina (2024).  
-- 🎤 Ambassador at TSYP11 and Volunteer at TEDx Street Pasha (2023).  
-
----
-
 ## 📫 **Contact Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rihemdaoudi)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/rihemdaoudi)  
@@ -88,7 +91,11 @@
 ---
 
 ## ✨ **Fun Fact**  
-I enjoy **Chinese Boxing**, **designing with Canva**, and playing **coding games** in my free time!
+In my free time, I enjoy **Chinese Boxing**, designing with **Canva**, and playing **coding games**!
+
+## 🔗 Connect with My Work  
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/rihemdaoudi).  
+- 🎨 Explore my design portfolio on [Behance](https://www.behance.net/daoudirihemm).  
 
 
 
