@@ -76,7 +76,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemdaoudi&layout=compact&theme=radical)  
 
 ### **Contributions Overview**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rihemdaoudi&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rihemdaoudi)](https://git.io/streak-stats)
 
 ---
 
