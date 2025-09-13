@@ -21,13 +21,11 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java"/>
   
   <!-- Frameworks & Technologies -->
   <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django"/>
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
@@ -81,6 +79,7 @@
 ---
 
 ## 📈 **Achievements & Volunteer Work**  
+- 💼 Vice President of Programs and external relations, **JCI EL Médina (2025)**.  
 - 🏅 Ranked **2nd among 17 TEK-UP teams** in **IEEEXTREME v18.0**.  
 - 💼 Vice President of Training and Development, **JCI EL Médina (2024)**.  
 - 🎤 **Ambassador at TSYP11 (2023)**.  
