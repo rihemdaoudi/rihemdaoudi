@@ -1,123 +1,110 @@
-# 👋 Hi there! I'm **Rihem Daoudi**
+# 👋 Hi, I'm Rihem Daoudi
 
-🚀 **Software Engineer @Blue Fish Consulting** | 💻 Passionate about building innovative solutions and solving challenging problems.  
-📍 From **Tunisia** 🇹🇳 | 🌐 Open to global opportunities.
-
----
-
-## 🌟 **About Me**  
-- 🎓 Graduated with **Highest Honour** in Software Engineering from TEK-UP Engineering School.  
-- 🌱 Currently exploring **Generative AI** and enhancing my expertise in **Cloud Technologies**.  
-- 🏆 Ranked **2nd among 17 TEK-UP teams** in **IEEEXTREME v18.0** (Ranked 2079 globally).  
-- 💬 Ask me about **Full-Stack Development**, **.NET Core**, and **Cloud Solutions**.  
+🚀 Software Engineer | Full-Stack JavaScript Specialist  
+🌍 Based in Tunisia | Open to International & Remote Opportunities  
 
 ---
 
-## 🛠️ **Tech Stack**  
-## Languages and Tools:
+## 💼 Professional Summary
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  <!-- Frameworks & Technologies -->
-  <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-</p>
+Results-driven Software Engineer specialized in building **scalable, production-grade web applications** using modern JavaScript ecosystems.
+
+I focus on:
+- High-performance frontend architecture (Next.js / React)
+- Robust backend systems (Node.js APIs)
+- Database design & optimization (PostgreSQL / MongoDB)
+- Cloud deployment & infrastructure (OVH / AWS)
+- Clean code, maintainability, and performance engineering
+
+I build systems that are not just functional — but scalable, secure, and ready for growth.
 
 ---
 
-## DevOps & Cloud Tools:
+## 🛠 Technical Expertise
 
-<p align="center">
-  <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/-CI/CD-239120?logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
-  
-  <!-- Cloud Platforms -->
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+### 💻 Core Languages
+- JavaScript (ES6+)
+- Python
 
+### ⚛ Frontend
+- React.js
+- Next.js
+- SEO Optimization
+- Performance Optimization
 
+### 🔧 Backend
+- Node.js
+- RESTful API Architecture
+- Authentication Systems (JWT-based flows)
 
----
-<!--
-## 🔥 **Projects**  
-### [Service Exchange Platform](https://github.com/rihemdaoudi/service-exchange-platform)  
-- **Description**: A full-stack platform enabling users to exchange services seamlessly.  
-- **Tech Stack**: Angular, Spring Boot.  
+### 🗄 Databases
+- PostgreSQL
+- MongoDB
+- Database Modeling & Query Optimization
 
-### [Expense Tracking Application](https://github.com/rihemdaoudi/expense-tracker)  
-- **Description**: A web app to monitor spending and visualize expenses.  
-- **Tech Stack**: ASP.NET Core MVC.  
-
-### [Blog Site](https://github.com/rihemdaoudi/blog-site)  
-- **Description**: A social media-style blog platform with user interaction features.  
-- **Tech Stack**: Django.  
--->
-
-## 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemdaoudi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemdaoudi&layout=compact&theme=radical)  
-
-### **Contributions Overview**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rihemdaoudi)](https://git.io/streak-stats)
+### ☁ Cloud & DevOps
+- OVH Cloud Infrastructure
+- AWS (Foundational knowledge)
+- GitHub Actions (CI/CD)
+- Deployment & Production Environments
 
 ---
 
-## 📈 **Achievements & Volunteer Work**  
-- 💼 Vice President of Programs and external relations, **JCI EL Médina (2025)**.  
-- 🏅 Ranked **2nd among 17 TEK-UP teams** in **IEEEXTREME v18.0**.  
-- 💼 Vice President of Training and Development, **JCI EL Médina (2024)**.  
-- 🎤 **Ambassador at TSYP11 (2023)**.  
-- 🙋‍♂️ **Volunteer at TEDx Street Pasha (2023)**.  
-- 💰 **Treasurer at IEEE TEK-UP (2024)**.  
+## 🚀 Selected Engineering Strengths
+
+✔ Scalable Web Architecture  
+✔ Clean & Maintainable Codebases  
+✔ API Design & Integration  
+✔ Production Deployment  
+✔ Performance & SEO Optimization  
+✔ Secure Authentication Systems  
 
 ---
 
-## 📜 **Certifications**  
-- **Introduction to Generative AI** - Google Cloud (2024).  
-- **Python** - Simplilearn (2022).  
-- **Personal Branding Certificate** - 4ST (2023).  
+## 📊 GitHub Performance
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemdaoudi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemdaoudi&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rihemdaoudi&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 🌍 **Languages**  
-- 🇩🇪 **German**: Beginner (A1).  
-- 🇫🇷 **French**: Intermediate (B2).  
-- 🇬🇧 **English**: Intermediate (B2).  
-- 🇹🇳 **Arabic**: Native.  
+## 🏆 Achievements
+
+- Ranked **2nd among 17 TEK-UP teams** in IEEE Xtreme v18.0 (2079 Global Rank)
+- Graduated with **Highest Honour** in Software Engineering
+- Leadership roles in JCI & IEEE
 
 ---
 
-## 📫 **Contact Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rihemdaoudi)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/rihemdaoudi)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:daoudirihem3@gmail.com)  
+## 🌍 Languages
+
+- Arabic — Native  
+- English — B2  
+- French — B2  
+- German — A1  
 
 ---
 
-## ✨ **Fun Fact**  
-In my free time, I enjoy  designing with **Canva**, and playing **coding games**!
+## 📫 Let's Connect
 
-## 🔗 Connect with My Work  
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/rihemdaoudi).  
-- 🎨 Explore my design portfolio on [Behance](https://www.behance.net/daoudirihemm).  
+- LinkedIn: https://linkedin.com/in/rihemdaoudi  
+- GitHub: https://github.com/rihemdaoudi  
+- Email: daoudirihem3@gmail.com  
 
+---
 
+## 🧠 Currently Exploring
+
+- Generative AI Integration in Web Systems  
+- Advanced Cloud Architecture  
+- High-Traffic Event Platforms  
+
+---
+
+⭐ I am actively seeking opportunities where I can contribute to impactful products, scalable systems, and ambitious engineering teams.
 
 <!--
 **rihemdaoudi/rihemdaoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
