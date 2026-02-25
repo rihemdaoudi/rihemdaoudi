@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Rihem Daoudi**
 
-🚀 **Software Engineer** | 💻 Passionate about building innovative solutions and solving challenging problems.  
+🚀 **Software Engineer @Blue Fish Consulting** | 💻 Passionate about building innovative solutions and solving challenging problems.  
 📍 From **Tunisia** 🇹🇳 | 🌐 Open to global opportunities.
 
 ---
